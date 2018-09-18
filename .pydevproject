@@ -5,5 +5,6 @@
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}/pygal_update01</path>
 <path>/${PROJECT_DIR_NAME}/btc_master</path>
+<path>/${PROJECT_DIR_NAME}/pygal2_update</path>
 </pydev_pathproperty>
 </pydev_project>
